@@ -1,0 +1,11 @@
+websites 1 - ['[https://openai.com](https://openai.com/)', '[https://similarweb.com](https://similarweb.com/)', '[https://yandex.ru](https://yandex.ru/)', '[https://fasthosts.co.uk](https://fasthosts.co.uk/)', '[https://clutch.co](https://clutch.co/)']
+
+websites 6 - ['[https://perspective.co](https://perspective.co/)', '[https://elliman.com](https://elliman.com/)']
+
+websites 4 - ['[https://samsung.com](https://samsung.com/)', '[https://80eighty.com](https://80eighty.com/)', '[https://agedcareonline.com.au](https://agedcareonline.com.au/)', '[https://cramly.ai](https://cramly.ai/)', '[https://dailymail.co.uk](https://dailymail.co.uk/)']
+
+websites 3 - ['[https://espncricinfo.com](https://espncricinfo.com/)', '[https://book118.com](https://book118.com/)', '[https://appmax.com.br](https://appmax.com.br/)', '[https://udacity.com](https://udacity.com/)', '[https://puma.com](https://puma.com/)', '[https://amie.so](https://amie.so/)', '[https://hubstaff.com](https://hubstaff.com/)', '[https://benesse.ne.jp](https://benesse.ne.jp/)']
+
+websites 5 - ['[https://alchemer.com](https://alchemer.com/)', '[https://player.pl](https://player.pl/)', '[https://akakce.com](https://akakce.com/)', '[https://51fusa.com](https://51fusa.com/)', '[https://ohou.se](https://ohou.se/)', '[https://taggrs.io](https://taggrs.io/)', '[https://apollo-news.net](https://apollo-news.net/)']
+
+websites 2 - ['[https://toggl.com](https://toggl.com/)', '[https://capitalizemytitle.com](https://capitalizemytitle.com/)', '[https://10fastfingers.com](https://10fastfingers.com/)', '[https://delfi.ee](https://delfi.ee/)', '[https://text-compare.com](https://text-compare.com/)', '[https://tumblr.com](https://tumblr.com/)', '[https://avito.ru](https://avito.ru/)']
