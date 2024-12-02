@@ -1,3 +1,6 @@
+## Automatically run vv8 crawler
+## Calls static.py after all websites are finished
+
 import subprocess
 import time
 from datetime import datetime, timedelta

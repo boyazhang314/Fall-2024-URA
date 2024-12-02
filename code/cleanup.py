@@ -1,3 +1,5 @@
+## Truncates script_flow and multicore_static_info tables
+
 import psycopg2
 from psycopg2 import sql
 
